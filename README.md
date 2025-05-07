@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Darshan BR
-- 👀 I’m interested in AI,Data Science Domain
-- 🌱 I’m currently learning Generative AI with LLM models
-- 💞️ I’m looking to Data Science and AI domain jobs
+- 👀 I’m interested in AI,ML Domain
+- 🌱 I’m currently learning Agentic AI with MCP and Deep Learning.
+- 💞️ I’m looking to ML and AI domain jobs
 - 📫 How to reach me darshanbr081@gmail.com 
 
 <!---
