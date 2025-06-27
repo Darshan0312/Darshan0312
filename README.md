@@ -1,6 +1,6 @@
 <!-- 🌟 Banner (replace with your image or upload ./banner.png) -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Darshan BR Banner" width="100%" />
+  <img src="./banner.png" alt="Darshan BR Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Darshan BR</h1>
