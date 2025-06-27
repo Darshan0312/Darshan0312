@@ -1,55 +1,38 @@
-- 👋 Hi, I’m Darshan BR 👋
-- 👀 I’m deeply interested in the exciting fields of **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
-- 🌱 I’m currently immersed in learning the intricacies of **Agentic AI with Model Context Protocol (MCP)** and advancing my knowledge in **Deep Learning**. I'm particularly exploring areas like:
-    - **Large Language Models (LLMs):** Including models such as those from Hugging Face (e.g., Phi, Qwen, DeepSeek), fine-tuning techniques, and deployment with tools like Ollama and LM Studio.
-    - **Vector Databases:** With experience exploring LanceDB and Qdrant for efficient data retrieval.
-    - **Agentic Frameworks:** Currently focusing on developing intelligent agents using frameworks like Langchain and potentially exploring others like CrewAI and LangGraph.
-    - **Deep Learning Techniques:** Hands-on learning with PyTorch and TensorFlow.
-    - **Multimodal AI:** With an interest in models that process both text and images.
-    - **Speech Technologies:** Including Text-to-Speech (TTS) models (like Coqui TTS, VOSK) and Speech-to-Text (STT) models.
-- 💞️ I’m actively seeking opportunities in the **ML and AI domains**. I'm eager to contribute my growing skills to innovative projects and collaborate with experienced professionals.
-- 📫 You can reach me at [darshanbr081@gmail.com](mailto:darshanbr081@gmail.com)
+![Banner](./header.png)
 
-Feel free to check out my repositories below to see some of the projects I'm working on!
+<h1 align="center">Hi, I'm Darshan BR 👋</h1>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F57F&center=true&lines=Building+Agentic+AI+..."></p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,docker,mongodb" />
+</p>
 
-**Skills**
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Darshan0312&theme=dracula&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
-- **Programming Languages:** Python
-- **Machine Learning:** Deep Learning, Natural Language Processing (NLP), Computer Vision, Agentic AI, Model Fine-tuning
-- **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras
-- **LLM Ecosystem:** Hugging Face Transformers, Ollama, LM Studio
-- **Vector Databases:** LanceDB, Qdrant
-- **Agentic AI Frameworks:** Langchain (actively learning), potentially CrewAI, LangGraph
-- **Cloud Platforms:** (Mention if you have experience, e.g., Google Cloud, AWS, Azure)
-- **Databases:** (Mention if you have experience, e.g., MongoDB)
-- **Tools & Technologies:** Git, Docker, (Mention others you've explored based on your search history like Google AI Studio, Colab, etc.)
+<p align="center">
+  ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan0312&theme=tokyonight&show_icons=true)&nbsp;
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darshan0312&theme=tokyonight)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darshan0312&style=flat&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-**Current Focus**
+<p align="center">
+  <img align="right" alt="Project Demo" width="300" src="./demo.gif" />
+  🎯 **Current Focus:** Agentic AI, MCP, multimodal/speech AI pipelines  
+</p>
 
-- Agentic AI development and implementation
-- Mastering Model Context Protocol for enhanced AI interactions
-- Exploring advanced Deep Learning architectures and techniques
-
----
-
-**Looking For**
-
-- Machine Learning Engineer roles
-- AI Engineer roles
-- Roles involving Agentic AI development
-- Opportunities to apply Deep Learning expertise
+<p align="center">
+  📬 [darshanbr081@gmail.com](mailto:darshanbr081@gmail.com) • [LinkedIn](https://linkedin.com/in/darshan-br-9880rb/) • [GitHub](https://github.com/Darshan0312)
+</p>
 
 ---
 
-**Connect with Me**
-
-- [LinkedIn](https://www.linkedin.com/in/darshan-br-9880rb/)
-- [GitHub](https://github.com/Darshan0312)
-
----
-
-Thank you for visiting my profile! I'm always eager to learn and connect with others in the AI/ML community. Let's build the future of AI together!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Darshan0312/Darshan0312/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
