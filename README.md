@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Darshan BR</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=500&lines=Agentic+AI+Explorer+%7C+LLM+Engineer+%7C+AI+Researcher;Multimodal+%2F+Speech+AI+Dev;Let%E2%80%99s+Build+Smarter+AI+Together!💡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=500&lines=Agentic+AI+Explorer+%7C+LLM+Engineer+%7C+AI+Engineer;Multimodal+%2F+Speech+AI+Dev;Let%E2%80%99s+Build+Smarter+AI+Together!💡" alt="Typing animation" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darshan0312/Darshan0312/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Darshan0312/Darshan0312/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
