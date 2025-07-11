@@ -62,12 +62,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Darshan0312/Darshan0312/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 👁️ Profile Views
